@@ -56,7 +56,8 @@ gh --version
 
 ## Step 3: Authenticate with GitHub
 
-Sign in once from the terminal. GitHub CLI stores credentials for ongoing use.
+Sign in once from the terminal. GitHub CLI stores credentials for 
+ongoing use.
 
 ```bash
 gh auth login
