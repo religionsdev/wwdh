@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **Historical WSL edition**
+>
+> This repository preserves the WSL Web Development Handbook for Windows 11 and Ubuntu under WSL. It is no longer under active development.
+>
+> The active PopOS-centered handbook is maintained in the [Web Development Handbook](https://github.com/religionsdev/web-development-handbook) repository.
+
+
+
+
+
 # WSL Web Development Handbook
 
 *A Professional Guide to Building and Maintaining a Windows 11 Pro + Ubuntu LTS Development Environment*
